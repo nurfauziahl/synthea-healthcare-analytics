@@ -44,7 +44,7 @@ The patient population is relatively balanced across age groups and gender, with
 
 ### 2. Clinical Condition Distribution
 
-![Clinical Condition Distribution](output/visualization/distribution_of_condition_records_by_cinical_category.jpg)
+![Clinical Condition Distribution](output/visualization/distribution_of_condition_records_by_clinical_category.jpg)
 
 Analysis of condition records shows that **Dental & Oral Health** and **Respiratory & ENT**
 categories account for the largest share of documented diagnoses.
@@ -53,7 +53,7 @@ categories account for the largest share of documented diagnoses.
 ### 3. Pharmacy Cost Concentration 
 *Identifying which therapeutic areas drive the highest spend.*
 
-![Pharmacy Cost Concentration](output/visualization/high_cost_drivers_in_pharmacy_spending_USD.jpg)
+![Pharmacy Cost Concentration](output/visualization/high-cost_drivers_in_pharmacy_spending_USD.jpg)
 
 Pharmacy spending demonstrates a highly skewed distribution, where a **single acute-care
 medication (Alteplase)** dominates total cost despite minimal utilization volume.
